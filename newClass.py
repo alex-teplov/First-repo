@@ -1,8 +1,8 @@
-new test class from UI
+new test class from UI;
 
-another test line for usage of diffs
+another test line for usage of diffs;
 
 
-Final messege 
+Final messege ;
 
-Again
+Again;
