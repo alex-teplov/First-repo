@@ -6,3 +6,7 @@ another test line for usage of diffs;
 Final messege ;
 
 Again;
+
+Collision test
+
+Some new features
