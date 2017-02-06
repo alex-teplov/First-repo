@@ -8,3 +8,5 @@ Final messege
 Again
 
 Collision test
+
+Some new features
