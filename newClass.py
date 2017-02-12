@@ -10,3 +10,5 @@ Again;
 Collision test
 
 Some new features
+
+One new line
